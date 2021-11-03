@@ -1,0 +1,1137 @@
+Area,Area Id,Variable Name,Variable Id,Year,Value
+Argentina,32,Total area of the country (excl. coastal water),4100,2002,278040
+Argentina,32,Total area of the country (excl. coastal water),4100,2007,278040
+Argentina,32,Total area of the country (excl. coastal water),4100,2012,278040
+Argentina,32,Total area of the country (excl. coastal water),4100,2017,278040
+Argentina,32,Total area of the country (excl. coastal water),4100,2018,278040
+Argentina,32,Arable land area,4101,2002,27862
+Argentina,32,Arable land area,4101,2007,36984.9
+Argentina,32,Arable land area,4101,2012,39622.9
+Argentina,32,Arable land area,4101,2017,33984.9
+Argentina,32,Arable land area,4101,2018,32632.7597
+Argentina,32,Permanent crops area,4102,2002,1000
+Argentina,32,Permanent crops area,4102,2007,1000
+Argentina,32,Permanent crops area,4102,2012,1000
+Argentina,32,Permanent crops area,4102,2017,1000
+Argentina,32,Permanent crops area,4102,2018,1068
+Argentina,32,Cultivated area (arable land + permanent crops),4103,2002,28862
+Argentina,32,Cultivated area (arable land + permanent crops),4103,2007,37984.9
+Argentina,32,Cultivated area (arable land + permanent crops),4103,2012,40622.9
+Argentina,32,Cultivated area (arable land + permanent crops),4103,2017,34984.9
+Argentina,32,Cultivated area (arable land + permanent crops),4103,2018,33700.7597
+Argentina,32,% of total country area cultivated,4470,2002,10.38052079
+Argentina,32,% of total country area cultivated,4470,2007,13.66166739
+Argentina,32,% of total country area cultivated,4470,2012,14.61045173
+Argentina,32,% of total country area cultivated,4470,2017,12.58268594
+Argentina,32,% of total country area cultivated,4470,2018,12.12083143
+Argentina,32,% of cultivated land irrigated [harvested crop],4556,2002,4.698219112
+Argentina,32,% of cultivated land irrigated [harvested crop],4556,2007,5.875540496
+Argentina,32,% of cultivated land irrigated [harvested crop],4556,2012,5.661831135
+Argentina,32,% of cultivated land irrigated [harvested crop],4556,2017,6.574264897
+Argentina,32,% of cultivated land irrigated [harvested crop],4556,2018,6.824771965
+Argentina,32,Total population,4104,2002,37681.749
+Argentina,32,Total population,4104,2007,39684.295
+Argentina,32,Total population,4104,2012,41755.196
+Argentina,32,Total population,4104,2017,43937.14
+Argentina,32,Total population,4104,2018,44361.15
+Argentina,32,Rural population,4105,2002,3974.741
+Argentina,32,Rural population,4105,2007,3850.764
+Argentina,32,Rural population,4105,2012,3737.979
+Argentina,32,Rural population,4105,2017,3652.804
+Argentina,32,Rural population,4105,2018,3632.997
+Argentina,32,Urban population,4106,2002,33914.629
+Argentina,32,Urban population,4106,2007,36119.46
+Argentina,32,Urban population,4106,2012,38358.76
+Argentina,32,Urban population,4106,2017,40618.237
+Argentina,32,Urban population,4106,2018,41055.867
+Argentina,32,Population density,4107,2002,13.55263595
+Argentina,32,Population density,4107,2007,14.27287261
+Argentina,32,Population density,4107,2012,15.01769386
+Argentina,32,Population density,4107,2017,15.80245288
+Argentina,32,Population density,4107,2018,15.95495252
+Argentina,32,Gross Domestic Product (GDP),4112,2002,1.11E+11
+Argentina,32,Gross Domestic Product (GDP),4112,2007,2.9E+11
+Argentina,32,Gross Domestic Product (GDP),4112,2012,5.81E+11
+Argentina,32,Gross Domestic Product (GDP),4112,2017,6.43E+11
+Argentina,32,Gross Domestic Product (GDP),4112,2018,5.2E+11
+Argentina,32,GDP per capita,4458,2002,2918.591423
+Argentina,32,GDP per capita,4458,2007,7249.274928
+Argentina,32,GDP per capita,4458,2012,13811.78016
+Argentina,32,GDP per capita,4458,2017,14517.29125
+Argentina,32,GDP per capita,4458,2018,11601.89008
+Argentina,32,"Agriculture, value added (% GDP)",4113,2002,8.84866
+Argentina,32,"Agriculture, value added (% GDP)",4113,2007,7.452354
+Argentina,32,"Agriculture, value added (% GDP)",4113,2012,5.781744
+Argentina,32,"Agriculture, value added (% GDP)",4113,2017,5.478382
+Argentina,32,"Agriculture, value added (% GDP)",4113,2018,6.097129
+Argentina,32,"Agriculture, value added to GDP",4548,2002,9.79E+09
+Argentina,32,"Agriculture, value added to GDP",4548,2007,2.16E+10
+Argentina,32,"Agriculture, value added to GDP",4548,2012,3.36E+10
+Argentina,32,"Agriculture, value added to GDP",4548,2017,3.52E+10
+Argentina,32,"Agriculture, value added to GDP",4548,2018,3.18E+10
+Argentina,32,"Industry, value added to GDP",4546,2002,2.76E+10
+Argentina,32,"Industry, value added to GDP",4546,2007,7.48E+10
+Argentina,32,"Industry, value added to GDP",4546,2012,1.36E+11
+Argentina,32,"Industry, value added to GDP",4546,2017,1.29E+11
+Argentina,32,"Industry, value added to GDP",4546,2018,1.07E+11
+Argentina,32,"Services, value added to GDP",4547,2002,6.06E+10
+Argentina,32,"Services, value added to GDP",4547,2007,1.48E+11
+Argentina,32,"Services, value added to GDP",4547,2012,3.18E+11
+Argentina,32,"Services, value added to GDP",4547,2017,3.77E+11
+Argentina,32,"Services, value added to GDP",4547,2018,3.01E+11
+Argentina,32,Human Development Index (HDI) [highest = 1],4111,2002,0.77
+Argentina,32,Human Development Index (HDI) [highest = 1],4111,2007,0.806
+Argentina,32,Human Development Index (HDI) [highest = 1],4111,2012,0.823
+Argentina,32,Human Development Index (HDI) [highest = 1],4111,2017,0.832
+Argentina,32,Human Development Index (HDI) [highest = 1],4111,2018,0.83
+Argentina,32,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.4074
+Argentina,32,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.3822
+Argentina,32,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.382
+Argentina,32,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.3756
+Argentina,32,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.3756
+Argentina,32,Prevalence of undernourishment (3-year average),4474,2002,3
+Argentina,32,Prevalence of undernourishment (3-year average),4474,2007,3.4
+Argentina,32,Prevalence of undernourishment (3-year average),4474,2012,3.3
+Argentina,32,Prevalence of undernourishment (3-year average),4474,2017,2.6
+Argentina,32,Prevalence of undernourishment (3-year average),4474,2018,3.1
+Argentina,32,Number of people undernourished (3-year average),4473,2002,1100
+Argentina,32,Number of people undernourished (3-year average),4473,2007,1300
+Argentina,32,Number of people undernourished (3-year average),4473,2012,1300
+Argentina,32,Number of people undernourished (3-year average),4473,2017,1100
+Argentina,32,Number of people undernourished (3-year average),4473,2018,1400
+Argentina,32,% of agricultural GVA produced by irrigated agriculture,4555,2002,7.690676174
+Argentina,32,% of agricultural GVA produced by irrigated agriculture,4555,2007,9.542787116
+Argentina,32,% of agricultural GVA produced by irrigated agriculture,4555,2012,9.20874013
+Argentina,32,% of agricultural GVA produced by irrigated agriculture,4555,2017,10.62837862
+Argentina,32,% of agricultural GVA produced by irrigated agriculture,4555,2018,11.01515096
+Argentina,32,GDP Deflator (2015),4558,2002,30.2622
+Argentina,32,GDP Deflator (2015),4558,2007,52.1213
+Argentina,32,GDP Deflator (2015),4558,2012,92.4649
+Argentina,32,GDP Deflator (2015),4558,2017,99.1296
+Argentina,32,GDP Deflator (2015),4558,2018,82.2258
+China,156,Total area of the country (excl. coastal water),4100,2002,960000
+China,156,Total area of the country (excl. coastal water),4100,2007,960000
+China,156,Total area of the country (excl. coastal water),4100,2012,960000
+China,156,Total area of the country (excl. coastal water),4100,2017,960001.08
+China,156,Total area of the country (excl. coastal water),4100,2018,960001.29
+China,156,Arable land area,4101,2002,120649.6889
+China,156,Arable land area,4101,2007,121546.9111
+China,156,Arable land area,4101,2012,119959.5
+China,156,Arable land area,4101,2017,119477.1
+China,156,Arable land area,4101,2018,119474.7
+China,156,Permanent crops area,4102,2002,11431
+China,156,Permanent crops area,4102,2007,13481
+China,156,Permanent crops area,4102,2012,16006
+China,156,Permanent crops area,4102,2017,16201
+China,156,Permanent crops area,4102,2018,16201
+China,156,Cultivated area (arable land + permanent crops),4103,2002,132080.6889
+China,156,Cultivated area (arable land + permanent crops),4103,2007,135027.9111
+China,156,Cultivated area (arable land + permanent crops),4103,2012,135965.5
+China,156,Cultivated area (arable land + permanent crops),4103,2017,135678.1
+China,156,Cultivated area (arable land + permanent crops),4103,2018,135675.7
+China,156,% of total country area cultivated,4470,2002,13.75840509
+China,156,% of total country area cultivated,4470,2007,14.06540741
+China,156,% of total country area cultivated,4470,2012,14.16307292
+China,156,% of total country area cultivated,4470,2017,14.13311952
+China,156,% of total country area cultivated,4470,2018,14.13286643
+China,156,% of cultivated land irrigated [harvested crop],4556,2002,38.51646944
+China,156,% of cultivated land irrigated [harvested crop],4556,2007,70.71574997
+China,156,% of cultivated land irrigated [harvested crop],4556,2012,70.22810934
+China,156,% of cultivated land irrigated [harvested crop],4556,2017,70.37686996
+China,156,% of cultivated land irrigated [harvested crop],4556,2018,70.37811487
+China,156,Total population,4104,2002,1336765.152
+China,156,Total population,4104,2007,1376265.629
+China,156,Total population,4104,2012,1415164.184
+China,156,Total population,4104,2017,1452625.244
+China,156,Total population,4104,2018,1459377.612
+China,156,Rural population,4105,2002,806104.331
+China,156,Rural population,4105,2007,738685.151
+China,156,Rural population,4105,2012,669007.424
+China,156,Rural population,4105,2017,597816.52
+China,156,Rural population,4105,2018,583199.631
+China,156,Urban population,4106,2002,521893.97
+China,156,Urban population,4106,2007,628350.588
+China,156,Urban population,4106,2012,737124.022
+China,156,Urban population,4106,2017,843314.783
+China,156,Urban population,4106,2018,863601.691
+China,156,Population density,4107,2002,139.24637
+China,156,Population density,4107,2007,143.361003
+China,156,Population density,4107,2012,147.4129358
+China,156,Population density,4107,2017,151.3149594
+China,156,Population density,4107,2018,152.018297
+China,156,Gross Domestic Product (GDP),4112,2002,1.64E+12
+China,156,Gross Domestic Product (GDP),4112,2007,3.78E+12
+China,156,Gross Domestic Product (GDP),4112,2012,8.84E+12
+China,156,Gross Domestic Product (GDP),4112,2017,1.27E+13
+China,156,Gross Domestic Product (GDP),4112,2018,1.43E+13
+China,156,GDP per capita,4458,2002,1259.120525
+China,156,GDP per capita,4458,2007,2812.2728
+China,156,GDP per capita,4458,2012,6390.956972
+China,156,GDP per capita,4458,2017,8843.579277
+China,156,GDP per capita,4458,2018,9855.461832
+China,156,"Agriculture, value added (% GDP)",4113,2002,12.213681
+China,156,"Agriculture, value added (% GDP)",4113,2007,9.956196
+China,156,"Agriculture, value added (% GDP)",4113,2012,9.112769
+China,156,"Agriculture, value added (% GDP)",4113,2017,7.563453
+China,156,"Agriculture, value added (% GDP)",4113,2018,7.164207
+China,156,"Agriculture, value added to GDP",4548,2002,2E+11
+China,156,"Agriculture, value added to GDP",4548,2007,3.74E+11
+China,156,"Agriculture, value added to GDP",4548,2012,8.01E+11
+China,156,"Agriculture, value added to GDP",4548,2017,9.57E+11
+China,156,"Agriculture, value added to GDP",4548,2018,1.02E+12
+China,156,"Industry, value added to GDP",4546,2002,6.56E+11
+China,156,"Industry, value added to GDP",4546,2007,1.67E+12
+China,156,"Industry, value added to GDP",4546,2012,3.89E+12
+China,156,"Industry, value added to GDP",4546,2017,4.94E+12
+China,156,"Industry, value added to GDP",4546,2018,5.55E+12
+China,156,"Services, value added to GDP",4547,2002,6.15E+11
+China,156,"Services, value added to GDP",4547,2007,1.51E+12
+China,156,"Services, value added to GDP",4547,2012,3.84E+12
+China,156,"Services, value added to GDP",4547,2017,6.25E+12
+China,156,"Services, value added to GDP",4547,2018,7.04E+12
+China,156,Human Development Index (HDI) [highest = 1],4111,2002,0.61
+China,156,Human Development Index (HDI) [highest = 1],4111,2007,0.67
+China,156,Human Development Index (HDI) [highest = 1],4111,2012,0.719
+China,156,Human Development Index (HDI) [highest = 1],4111,2017,0.753
+China,156,Human Development Index (HDI) [highest = 1],4111,2018,0.758
+China,156,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.4308
+China,156,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.215
+China,156,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.204333333
+China,156,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.1907
+China,156,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.1907
+China,156,Prevalence of undernourishment (3-year average),4474,2002,10
+China,156,Prevalence of undernourishment (3-year average),4474,2007,6.1
+China,156,Prevalence of undernourishment (3-year average),4474,2012,11.1
+China,156,Prevalence of undernourishment (3-year average),4474,2017,8.6
+China,156,Prevalence of undernourishment (3-year average),4474,2018,8.5
+China,156,Number of people undernourished (3-year average),4473,2002,132500
+China,156,Number of people undernourished (3-year average),4473,2007,83200
+China,156,Number of people undernourished (3-year average),4473,2012,155000
+China,156,Number of people undernourished (3-year average),4473,2017,123100
+China,156,Number of people undernourished (3-year average),4473,2018,122400
+China,156,% of agricultural GVA produced by irrigated agriculture,4555,2002,49.07009363
+China,156,% of agricultural GVA produced by irrigated agriculture,4555,2007,78.78645772
+China,156,% of agricultural GVA produced by irrigated agriculture,4555,2012,78.39214522
+China,156,% of agricultural GVA produced by irrigated agriculture,4555,2017,78.51259405
+China,156,% of agricultural GVA produced by irrigated agriculture,4555,2018,78.51360145
+China,156,GDP Deflator (2015),4558,2002,44.32
+China,156,GDP Deflator (2015),4558,2007,61.69
+China,156,GDP Deflator (2015),4558,2012,94.4
+China,156,GDP Deflator (2015),4558,2017,95.1
+China,156,GDP Deflator (2015),4558,2018,95.1
+India,356,Total area of the country (excl. coastal water),4100,2002,328726
+India,356,Total area of the country (excl. coastal water),4100,2007,328726
+India,356,Total area of the country (excl. coastal water),4100,2012,328726
+India,356,Total area of the country (excl. coastal water),4100,2017,328726
+India,356,Total area of the country (excl. coastal water),4100,2018,328726
+India,356,Arable land area,4101,2002,160432
+India,356,Arable land area,4101,2007,158022
+India,356,Arable land area,4101,2012,156546
+India,356,Arable land area,4101,2017,156317
+India,356,Arable land area,4101,2018,156317
+India,356,Permanent crops area,4102,2002,9600
+India,356,Permanent crops area,4102,2007,11180
+India,356,Permanent crops area,4102,2012,12800
+India,356,Permanent crops area,4102,2017,13000
+India,356,Permanent crops area,4102,2018,13000
+India,356,Cultivated area (arable land + permanent crops),4103,2002,170032
+India,356,Cultivated area (arable land + permanent crops),4103,2007,169202
+India,356,Cultivated area (arable land + permanent crops),4103,2012,169346
+India,356,Cultivated area (arable land + permanent crops),4103,2017,169317
+India,356,Cultivated area (arable land + permanent crops),4103,2018,169317
+India,356,% of total country area cultivated,4470,2002,51.72453654
+India,356,% of total country area cultivated,4470,2007,51.47204663
+India,356,% of total country area cultivated,4470,2012,51.51585211
+India,356,% of total country area cultivated,4470,2017,51.50703017
+India,356,% of total country area cultivated,4470,2018,51.50703017
+India,356,% of cultivated land irrigated [harvested crop],4556,2002,44.9315423
+India,356,% of cultivated land irrigated [harvested crop],4556,2007,50.02851621
+India,356,% of cultivated land irrigated [harvested crop],4556,2012,54.03835934
+India,356,% of cultivated land irrigated [harvested crop],4556,2017,54.67554941
+India,356,% of cultivated land irrigated [harvested crop],4556,2018,54.67554941
+India,356,Total population,4104,2002,1093317.189
+India,356,Total population,4104,2007,1183209.472
+India,356,Total population,4104,2012,1265780.247
+India,356,Total population,4104,2017,1338676.785
+India,356,Total population,4104,2018,1352642.28
+India,356,Rural population,4105,2002,782001.968
+India,356,Rural population,4105,2007,826881.86
+India,356,Rural population,4105,2012,863513.505
+India,356,Rural population,4105,2017,889216.746
+India,356,Rural population,4105,2018,893272.09
+India,356,Urban population,4106,2002,307805.144
+India,356,Urban population,4106,2007,352799.379
+India,356,Urban population,4106,2012,399552.347
+India,356,Urban population,4106,2017,449963.381
+India,356,Urban population,4106,2018,460779.764
+India,356,Population density,4107,2002,332.5922467
+India,356,Population density,4107,2007,359.9379033
+India,356,Population density,4107,2012,385.0563226
+India,356,Population density,4107,2017,407.2317933
+India,356,Population density,4107,2018,411.4801628
+India,356,Gross Domestic Product (GDP),4112,2002,5.13E+11
+India,356,Gross Domestic Product (GDP),4112,2007,1.18E+12
+India,356,Gross Domestic Product (GDP),4112,2012,1.86E+12
+India,356,Gross Domestic Product (GDP),4112,2017,2.63E+12
+India,356,Gross Domestic Product (GDP),4112,2018,2.77E+12
+India,356,GDP per capita,4458,2002,470.518693
+India,356,GDP per capita,4458,2007,1004.275095
+India,356,GDP per capita,4458,2012,1473.301833
+India,356,GDP per capita,4458,2017,1960.222536
+India,356,GDP per capita,4458,2018,2052.618239
+India,356,"Agriculture, value added (% GDP)",4113,2002,19.040543
+India,356,"Agriculture, value added (% GDP)",4113,2007,16.750125
+India,356,"Agriculture, value added (% GDP)",4113,2012,16.845372
+India,356,"Agriculture, value added (% GDP)",4113,2017,16.35781
+India,356,"Agriculture, value added (% GDP)",4113,2018,15.406723
+India,356,"Agriculture, value added to GDP",4548,2002,9.76E+10
+India,356,"Agriculture, value added to GDP",4548,2007,1.98E+11
+India,356,"Agriculture, value added to GDP",4548,2012,3.13E+11
+India,356,"Agriculture, value added to GDP",4548,2017,4.1E+11
+India,356,"Agriculture, value added to GDP",4548,2018,4.06E+11
+India,356,"Industry, value added to GDP",4546,2002,1.24E+11
+India,356,"Industry, value added to GDP",4546,2007,3.41E+11
+India,356,"Industry, value added to GDP",4546,2012,5.07E+11
+India,356,"Industry, value added to GDP",4546,2017,6.31E+11
+India,356,"Industry, value added to GDP",4546,2018,6.73E+11
+India,356,"Services, value added to GDP",4547,2002,2.33E+11
+India,356,"Services, value added to GDP",4547,2007,5.47E+11
+India,356,"Services, value added to GDP",4547,2012,9.02E+11
+India,356,"Services, value added to GDP",4547,2017,1.34E+12
+India,356,"Services, value added to GDP",4547,2018,1.44E+12
+India,356,Human Development Index (HDI) [highest = 1],4111,2002,0.508
+India,356,Human Development Index (HDI) [highest = 1],4111,2007,0.558
+India,356,Human Development Index (HDI) [highest = 1],4111,2012,0.6
+India,356,Human Development Index (HDI) [highest = 1],4111,2017,0.643
+India,356,Human Development Index (HDI) [highest = 1],4111,2018,0.647
+India,356,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.6086
+India,356,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.572
+India,356,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.5629
+India,356,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.5629
+India,356,Prevalence of undernourishment (3-year average),4474,2002,18.4
+India,356,Prevalence of undernourishment (3-year average),4474,2007,19.6
+India,356,Prevalence of undernourishment (3-year average),4474,2012,15.6
+India,356,Prevalence of undernourishment (3-year average),4474,2017,14.2
+India,356,Prevalence of undernourishment (3-year average),4474,2018,13.8
+India,356,Number of people undernourished (3-year average),4473,2002,198300
+India,356,Number of people undernourished (3-year average),4473,2007,228800
+India,356,Number of people undernourished (3-year average),4473,2012,195000
+India,356,Number of people undernourished (3-year average),4473,2017,187600
+India,356,Number of people undernourished (3-year average),4473,2018,184900
+India,356,% of agricultural GVA produced by irrigated agriculture,4555,2002,63.95915083
+India,356,% of agricultural GVA produced by irrigated agriculture,4555,2007,68.52854249
+India,356,% of agricultural GVA produced by irrigated agriculture,4555,2012,71.88805752
+India,356,% of agricultural GVA produced by irrigated agriculture,4555,2017,72.40415851
+India,356,% of agricultural GVA produced by irrigated agriculture,4555,2018,72.40415851
+India,356,GDP Deflator (2015),4558,2002,57.6832
+India,356,GDP Deflator (2015),4558,2007,91.185
+India,356,GDP Deflator (2015),4558,2012,106.973
+India,356,GDP Deflator (2015),4558,2017,105.543
+India,356,GDP Deflator (2015),4558,2018,105.065
+Oman,512,Total area of the country (excl. coastal water),4100,2002,30950
+Oman,512,Total area of the country (excl. coastal water),4100,2007,30950
+Oman,512,Total area of the country (excl. coastal water),4100,2012,30950
+Oman,512,Total area of the country (excl. coastal water),4100,2017,30950
+Oman,512,Total area of the country (excl. coastal water),4100,2018,30950
+Oman,512,Arable land area,4101,2002,31
+Oman,512,Arable land area,4101,2007,28
+Oman,512,Arable land area,4101,2012,33.7
+Oman,512,Arable land area,4101,2017,69.3
+Oman,512,Arable land area,4101,2018,76.66
+Oman,512,Permanent crops area,4102,2002,42.4
+Oman,512,Permanent crops area,4102,2007,37
+Oman,512,Permanent crops area,4102,2012,39.1
+Oman,512,Permanent crops area,4102,2017,31.61
+Oman,512,Permanent crops area,4102,2018,32.23
+Oman,512,Cultivated area (arable land + permanent crops),4103,2002,73.4
+Oman,512,Cultivated area (arable land + permanent crops),4103,2007,65
+Oman,512,Cultivated area (arable land + permanent crops),4103,2012,72.8
+Oman,512,Cultivated area (arable land + permanent crops),4103,2017,100.92
+Oman,512,Cultivated area (arable land + permanent crops),4103,2018,108.89
+Oman,512,% of total country area cultivated,4470,2002,0.237156704
+Oman,512,% of total country area cultivated,4470,2007,0.210016155
+Oman,512,% of total country area cultivated,4470,2012,0.235218094
+Oman,512,% of total country area cultivated,4470,2017,0.326074313
+Oman,512,% of total country area cultivated,4470,2018,0.351825525
+Oman,512,% of cultivated land irrigated [harvested crop],4556,2002,100
+Oman,512,% of cultivated land irrigated [harvested crop],4556,2007,100
+Oman,512,% of cultivated land irrigated [harvested crop],4556,2012,100
+Oman,512,% of cultivated land irrigated [harvested crop],4556,2017,50.83234245
+Oman,512,% of cultivated land irrigated [harvested crop],4556,2018,52.80558362
+Oman,512,Total population,4104,2002,2334.858
+Oman,512,Total population,4104,2007,2657.158
+Oman,512,Total population,4104,2012,3498.029
+Oman,512,Total population,4104,2017,4665.928
+Oman,512,Total population,4104,2018,4829.473
+Oman,512,Rural population,4105,2002,664.6
+Oman,512,Rural population,4105,2007,704.911
+Oman,512,Rural population,4105,2012,777.34
+Oman,512,Rural population,4105,2017,762.22
+Oman,512,Rural population,4105,2018,746.74
+Oman,512,Urban population,4106,2002,1669.685
+Oman,512,Urban population,4106,2007,1957.851
+Oman,512,Urban population,4106,2012,2687.304
+Oman,512,Urban population,4106,2017,3874.042
+Oman,512,Urban population,4106,2018,4083.206
+Oman,512,Population density,4107,2002,7.54396769
+Oman,512,Population density,4107,2007,8.585324717
+Oman,512,Population density,4107,2012,11.30219386
+Oman,512,Population density,4107,2017,15.07569628
+Oman,512,Population density,4107,2018,15.60411309
+Oman,512,Gross Domestic Product (GDP),4112,2002,2.01E+10
+Oman,512,Gross Domestic Product (GDP),4112,2007,4.21E+10
+Oman,512,Gross Domestic Product (GDP),4112,2012,7.65E+10
+Oman,512,Gross Domestic Product (GDP),4112,2017,7.06E+10
+Oman,512,Gross Domestic Product (GDP),4112,2018,7.98E+10
+Oman,512,GDP per capita,4458,2002,8629.090353
+Oman,512,GDP per capita,4458,2007,15805.16001
+Oman,512,GDP per capita,4458,2012,22083.38286
+Oman,512,GDP per capita,4458,2017,17099.28119
+Oman,512,GDP per capita,4458,2018,19070.91177
+Oman,512,"Agriculture, value added (% GDP)",4113,2002,2.320375
+Oman,512,"Agriculture, value added (% GDP)",4113,2007,1.377368
+Oman,512,"Agriculture, value added (% GDP)",4113,2012,1.160197
+Oman,512,"Agriculture, value added (% GDP)",4113,2017,2.273789
+Oman,512,"Agriculture, value added (% GDP)",4113,2018,2.121134
+Oman,512,"Agriculture, value added to GDP",4548,2002,4.67E+08
+Oman,512,"Agriculture, value added to GDP",4548,2007,5.8E+08
+Oman,512,"Agriculture, value added to GDP",4548,2012,8.88E+08
+Oman,512,"Agriculture, value added to GDP",4548,2017,1.73E+09
+Oman,512,"Agriculture, value added to GDP",4548,2018,2.07E+09
+Oman,512,"Industry, value added to GDP",4546,2002,1.1E+10
+Oman,512,"Industry, value added to GDP",4546,2007,2.53E+10
+Oman,512,"Industry, value added to GDP",4546,2012,5.31E+10
+Oman,512,"Industry, value added to GDP",4546,2017,4.17E+10
+Oman,512,"Industry, value added to GDP",4546,2018,4.48E+10
+Oman,512,"Services, value added to GDP",4547,2002,8.98E+09
+Oman,512,"Services, value added to GDP",4547,2007,1.69E+10
+Oman,512,"Services, value added to GDP",4547,2012,2.78E+10
+Oman,512,"Services, value added to GDP",4547,2017,3.89E+10
+Oman,512,"Services, value added to GDP",4547,2018,4.88E+10
+Oman,512,Human Development Index (HDI) [highest = 1],4111,2002,0.725
+Oman,512,Human Development Index (HDI) [highest = 1],4111,2007,0.764
+Oman,512,Human Development Index (HDI) [highest = 1],4111,2012,0.804
+Oman,512,Human Development Index (HDI) [highest = 1],4111,2017,0.833
+Oman,512,Human Development Index (HDI) [highest = 1],4111,2018,0.834
+Oman,512,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.2753
+Oman,512,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.2753
+Oman,512,Prevalence of undernourishment (3-year average),4474,2002,12.3
+Oman,512,Prevalence of undernourishment (3-year average),4474,2007,9.6
+Oman,512,Prevalence of undernourishment (3-year average),4474,2012,8.4
+Oman,512,Prevalence of undernourishment (3-year average),4474,2017,8.4
+Oman,512,Prevalence of undernourishment (3-year average),4474,2018,8.4
+Oman,512,Number of people undernourished (3-year average),4473,2002,300
+Oman,512,Number of people undernourished (3-year average),4473,2007,200
+Oman,512,Number of people undernourished (3-year average),4473,2012,300
+Oman,512,Number of people undernourished (3-year average),4473,2017,400
+Oman,512,Number of people undernourished (3-year average),4473,2018,400
+Oman,512,% of agricultural GVA produced by irrigated agriculture,4555,2002,100
+Oman,512,% of agricultural GVA produced by irrigated agriculture,4555,2007,100
+Oman,512,% of agricultural GVA produced by irrigated agriculture,4555,2012,100
+Oman,512,% of agricultural GVA produced by irrigated agriculture,4555,2017,100
+Oman,512,% of agricultural GVA produced by irrigated agriculture,4555,2018,100
+Oman,512,GDP Deflator (2015),4558,2002,47.7712
+Oman,512,GDP Deflator (2015),4558,2007,89.7476
+Oman,512,GDP Deflator (2015),4558,2012,124.807
+Oman,512,GDP Deflator (2015),4558,2017,97.8693
+Oman,512,GDP Deflator (2015),4558,2018,109.603
+Singapore,702,Total area of the country (excl. coastal water),4100,2002,68.5
+Singapore,702,Total area of the country (excl. coastal water),4100,2007,70.5
+Singapore,702,Total area of the country (excl. coastal water),4100,2012,71.6
+Singapore,702,Total area of the country (excl. coastal water),4100,2017,72.2
+Singapore,702,Total area of the country (excl. coastal water),4100,2018,72.4
+Singapore,702,Arable land area,4101,2002,1
+Singapore,702,Arable land area,4101,2007,0.7
+Singapore,702,Arable land area,4101,2012,0.63
+Singapore,702,Arable land area,4101,2017,0.56
+Singapore,702,Arable land area,4101,2018,0.56
+Singapore,702,Permanent crops area,4102,2002,0.2
+Singapore,702,Permanent crops area,4102,2007,0.1
+Singapore,702,Permanent crops area,4102,2012,0.1
+Singapore,702,Permanent crops area,4102,2017,0.1
+Singapore,702,Permanent crops area,4102,2018,0.1
+Singapore,702,Cultivated area (arable land + permanent crops),4103,2002,1.2
+Singapore,702,Cultivated area (arable land + permanent crops),4103,2007,0.8
+Singapore,702,Cultivated area (arable land + permanent crops),4103,2012,0.73
+Singapore,702,Cultivated area (arable land + permanent crops),4103,2017,0.66
+Singapore,702,Cultivated area (arable land + permanent crops),4103,2018,0.66
+Singapore,702,% of total country area cultivated,4470,2002,1.751824818
+Singapore,702,% of total country area cultivated,4470,2007,1.134751773
+Singapore,702,% of total country area cultivated,4470,2012,1.019553073
+Singapore,702,% of total country area cultivated,4470,2017,0.914127424
+Singapore,702,% of total country area cultivated,4470,2018,0.91160221
+Singapore,702,Total population,4104,2002,4104.419
+Singapore,702,Total population,4104,2007,4578.63
+Singapore,702,Total population,4104,2012,5369.476
+Singapore,702,Total population,4104,2017,5708.041
+Singapore,702,Total population,4104,2018,5757.499
+Singapore,702,Rural population,4105,2002,0
+Singapore,702,Rural population,4105,2007,0
+Singapore,702,Rural population,4105,2012,0
+Singapore,702,Rural population,4105,2017,0
+Singapore,702,Rural population,4105,2018,0
+Singapore,702,Urban population,4106,2002,4131.208
+Singapore,702,Urban population,4106,2007,4732.528
+Singapore,702,Urban population,4106,2012,5270.958
+Singapore,702,Urban population,4106,2017,5708.844
+Singapore,702,Urban population,4106,2018,5791.901
+Singapore,702,Population density,4107,2002,5991.852555
+Singapore,702,Population density,4107,2007,6494.510638
+Singapore,702,Population density,4107,2012,7499.268156
+Singapore,702,Population density,4107,2017,7905.873961
+Singapore,702,Population density,4107,2018,7952.346685
+Singapore,702,Gross Domestic Product (GDP),4112,2002,9.25E+10
+Singapore,702,Gross Domestic Product (GDP),4112,2007,1.81E+11
+Singapore,702,Gross Domestic Product (GDP),4112,2012,2.95E+11
+Singapore,702,Gross Domestic Product (GDP),4112,2017,3.42E+11
+Singapore,702,Gross Domestic Product (GDP),4112,2018,3.73E+11
+Singapore,702,GDP per capita,4458,2002,22255.42552
+Singapore,702,GDP per capita,4458,2007,38030.64441
+Singapore,702,GDP per capita,4458,2012,55323.83633
+Singapore,702,GDP per capita,4458,2017,58974.9681
+Singapore,702,GDP per capita,4458,2018,62348.33805
+Singapore,702,"Agriculture, value added (% GDP)",4113,2002,0.071033
+Singapore,702,"Agriculture, value added (% GDP)",4113,2007,0.042868
+Singapore,702,"Agriculture, value added (% GDP)",4113,2012,0.033327
+Singapore,702,"Agriculture, value added (% GDP)",4113,2017,0.029698
+Singapore,702,"Agriculture, value added (% GDP)",4113,2018,0.028407
+Singapore,702,"Agriculture, value added to GDP",4548,2002,6.56E+07
+Singapore,702,"Agriculture, value added to GDP",4548,2007,7.74E+07
+Singapore,702,"Agriculture, value added to GDP",4548,2012,9.64E+07
+Singapore,702,"Agriculture, value added to GDP",4548,2017,8.27E+07
+Singapore,702,"Agriculture, value added to GDP",4548,2018,8.5E+07
+Singapore,702,"Industry, value added to GDP",4546,2002,2.63E+10
+Singapore,702,"Industry, value added to GDP",4546,2007,4.72E+10
+Singapore,702,"Industry, value added to GDP",4546,2012,6.73E+10
+Singapore,702,"Industry, value added to GDP",4546,2017,7.42E+10
+Singapore,702,"Industry, value added to GDP",4546,2018,8.5E+10
+Singapore,702,"Services, value added to GDP",4547,2002,6.07E+10
+Singapore,702,"Services, value added to GDP",4547,2007,1.22E+11
+Singapore,702,"Services, value added to GDP",4547,2012,2.07E+11
+Singapore,702,"Services, value added to GDP",4547,2017,2.42E+11
+Singapore,702,"Services, value added to GDP",4547,2018,2.57E+11
+Singapore,702,Human Development Index (HDI) [highest = 1],4111,2002,0.83
+Singapore,702,Human Development Index (HDI) [highest = 1],4111,2007,0.879
+Singapore,702,Human Development Index (HDI) [highest = 1],4111,2012,0.92
+Singapore,702,Human Development Index (HDI) [highest = 1],4111,2017,0.934
+Singapore,702,Human Development Index (HDI) [highest = 1],4111,2018,0.935
+Singapore,702,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.1198
+Singapore,702,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.091333333
+Singapore,702,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.0881
+Singapore,702,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.0881
+Singapore,702,GDP Deflator (2015),4558,2002,64.0779
+Singapore,702,GDP Deflator (2015),4558,2007,85.5422
+Singapore,702,GDP Deflator (2015),4558,2012,107.52
+Singapore,702,GDP Deflator (2015),4558,2017,103.038
+Singapore,702,GDP Deflator (2015),4558,2018,108.748
+Sweden,752,Total area of the country (excl. coastal water),4100,2002,45030
+Sweden,752,Total area of the country (excl. coastal water),4100,2007,45030
+Sweden,752,Total area of the country (excl. coastal water),4100,2012,44742
+Sweden,752,Total area of the country (excl. coastal water),4100,2017,44743.479
+Sweden,752,Total area of the country (excl. coastal water),4100,2018,44743.479
+Sweden,752,Arable land area,4101,2002,2654.5
+Sweden,752,Arable land area,4101,2007,2631.4
+Sweden,752,Arable land area,4101,2012,2593.8
+Sweden,752,Arable land area,4101,2017,2555.11
+Sweden,752,Arable land area,4101,2018,2541.99
+Sweden,752,Permanent crops area,4102,2002,2.9
+Sweden,752,Permanent crops area,4102,2007,3.1
+Sweden,752,Permanent crops area,4102,2012,2.6
+Sweden,752,Permanent crops area,4102,2017,3.32
+Sweden,752,Permanent crops area,4102,2018,3.25
+Sweden,752,Cultivated area (arable land + permanent crops),4103,2002,2657.4
+Sweden,752,Cultivated area (arable land + permanent crops),4103,2007,2634.5
+Sweden,752,Cultivated area (arable land + permanent crops),4103,2012,2596.4
+Sweden,752,Cultivated area (arable land + permanent crops),4103,2017,2558.43
+Sweden,752,Cultivated area (arable land + permanent crops),4103,2018,2545.24
+Sweden,752,% of total country area cultivated,4470,2002,5.901399067
+Sweden,752,% of total country area cultivated,4470,2007,5.850544082
+Sweden,752,% of total country area cultivated,4470,2012,5.80304859
+Sweden,752,% of total country area cultivated,4470,2017,5.717995241
+Sweden,752,% of total country area cultivated,4470,2018,5.688516085
+Sweden,752,% of cultivated land irrigated [harvested crop],4556,2007,2.056177643
+Sweden,752,% of cultivated land irrigated [harvested crop],4556,2012,2.086350331
+Sweden,752,% of cultivated land irrigated [harvested crop],4556,2017,2.117314134
+Sweden,752,% of cultivated land irrigated [harvested crop],4556,2018,2.128286527
+Sweden,752,Total population,4104,2002,8920.71
+Sweden,752,Total population,4104,2007,9162.939
+Sweden,752,Total population,4104,2012,9542.812
+Sweden,752,Total population,4104,2017,9904.896
+Sweden,752,Total population,4104,2018,9971.638
+Sweden,752,Rural population,4105,2002,1415.408
+Sweden,752,Rural population,4105,2007,1412.213
+Sweden,752,Rural population,4105,2012,1371.997
+Sweden,752,Rural population,4105,2017,1273.943
+Sweden,752,Rural population,4105,2018,1254.718
+Sweden,752,Urban population,4106,2002,7505.286
+Sweden,752,Urban population,4106,2007,7751.03
+Sweden,752,Urban population,4106,2012,8168.91
+Sweden,752,Urban population,4106,2017,8636.758
+Sweden,752,Urban population,4106,2018,8727.991
+Sweden,752,Population density,4107,2002,19.81059294
+Sweden,752,Population density,4107,2007,20.34852099
+Sweden,752,Population density,4107,2012,21.32853248
+Sweden,752,Population density,4107,2017,22.13707164
+Sweden,752,Population density,4107,2018,22.28623751
+Sweden,752,Gross Domestic Product (GDP),4112,2002,2.67E+11
+Sweden,752,Gross Domestic Product (GDP),4112,2007,4.91E+11
+Sweden,752,Gross Domestic Product (GDP),4112,2012,5.52E+11
+Sweden,752,Gross Domestic Product (GDP),4112,2017,5.41E+11
+Sweden,752,Gross Domestic Product (GDP),4112,2018,5.55E+11
+Sweden,752,GDP per capita,4458,2002,29743.85857
+Sweden,752,GDP per capita,4458,2007,53253.52945
+Sweden,752,GDP per capita,4458,2012,57743.66925
+Sweden,752,GDP per capita,4458,2017,54541.57444
+Sweden,752,GDP per capita,4458,2018,55704.96835
+Sweden,752,"Agriculture, value added (% GDP)",4113,2002,1.900216
+Sweden,752,"Agriculture, value added (% GDP)",4113,2007,1.578633
+Sweden,752,"Agriculture, value added (% GDP)",4113,2012,1.556042
+Sweden,752,"Agriculture, value added (% GDP)",4113,2017,1.442003
+Sweden,752,"Agriculture, value added (% GDP)",4113,2018,1.376777
+Sweden,752,"Agriculture, value added to GDP",4548,2002,5.07E+09
+Sweden,752,"Agriculture, value added to GDP",4548,2007,7.76E+09
+Sweden,752,"Agriculture, value added to GDP",4548,2012,8.6E+09
+Sweden,752,"Agriculture, value added to GDP",4548,2017,7.8E+09
+Sweden,752,"Agriculture, value added to GDP",4548,2018,7.65E+09
+Sweden,752,"Industry, value added to GDP",4546,2002,6.08E+10
+Sweden,752,"Industry, value added to GDP",4546,2007,1.1E+11
+Sweden,752,"Industry, value added to GDP",4546,2012,1.09E+11
+Sweden,752,"Industry, value added to GDP",4546,2017,1.06E+11
+Sweden,752,"Industry, value added to GDP",4546,2018,1.1E+11
+Sweden,752,"Services, value added to GDP",4547,2002,1.69E+11
+Sweden,752,"Services, value added to GDP",4547,2007,3.14E+11
+Sweden,752,"Services, value added to GDP",4547,2012,3.71E+11
+Sweden,752,"Services, value added to GDP",4547,2017,3.65E+11
+Sweden,752,"Services, value added to GDP",4547,2018,3.75E+11
+Sweden,752,Human Development Index (HDI) [highest = 1],4111,2002,0.903
+Sweden,752,Human Development Index (HDI) [highest = 1],4111,2007,0.905
+Sweden,752,Human Development Index (HDI) [highest = 1],4111,2012,0.908
+Sweden,752,Human Development Index (HDI) [highest = 1],4111,2017,0.935
+Sweden,752,Human Development Index (HDI) [highest = 1],4111,2018,0.937
+Sweden,752,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.0584
+Sweden,752,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.0518
+Sweden,752,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.052666667
+Sweden,752,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.0547
+Sweden,752,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.0547
+Sweden,752,% of agricultural GVA produced by irrigated agriculture,4555,2007,3.59832128
+Sweden,752,% of agricultural GVA produced by irrigated agriculture,4555,2012,3.65028025
+Sweden,752,% of agricultural GVA produced by irrigated agriculture,4555,2017,3.703576609
+Sweden,752,% of agricultural GVA produced by irrigated agriculture,4555,2018,3.722456749
+Sweden,752,GDP Deflator (2015),4558,2002,70.5549
+Sweden,752,GDP Deflator (2015),4558,2007,109.269
+Sweden,752,GDP Deflator (2015),4558,2012,118.722
+Sweden,752,GDP Deflator (2015),4558,2017,102.31
+Sweden,752,GDP Deflator (2015),4558,2018,103.031
+Switzerland,756,Total area of the country (excl. coastal water),4100,2002,4129
+Switzerland,756,Total area of the country (excl. coastal water),4100,2007,4129
+Switzerland,756,Total area of the country (excl. coastal water),4100,2012,4129
+Switzerland,756,Total area of the country (excl. coastal water),4100,2017,4129.039
+Switzerland,756,Total area of the country (excl. coastal water),4100,2018,4129.039
+Switzerland,756,Arable land area,4101,2002,408.3
+Switzerland,756,Arable land area,4101,2007,406.6
+Switzerland,756,Arable land area,4101,2012,403.8
+Switzerland,756,Arable land area,4101,2017,398.1839
+Switzerland,756,Arable land area,4101,2018,398.1389
+Switzerland,756,Permanent crops area,4102,2002,24
+Switzerland,756,Permanent crops area,4102,2007,23.4
+Switzerland,756,Permanent crops area,4102,2012,24.4
+Switzerland,756,Permanent crops area,4102,2017,24.9045
+Switzerland,756,Permanent crops area,4102,2018,25.2215
+Switzerland,756,Cultivated area (arable land + permanent crops),4103,2002,432.3
+Switzerland,756,Cultivated area (arable land + permanent crops),4103,2007,430
+Switzerland,756,Cultivated area (arable land + permanent crops),4103,2012,428.2
+Switzerland,756,Cultivated area (arable land + permanent crops),4103,2017,423.0884
+Switzerland,756,Cultivated area (arable land + permanent crops),4103,2018,423.3603
+Switzerland,756,% of total country area cultivated,4470,2002,10.46984742
+Switzerland,756,% of total country area cultivated,4470,2007,10.41414386
+Switzerland,756,% of total country area cultivated,4470,2012,10.37054977
+Switzerland,756,% of total country area cultivated,4470,2017,10.24665546
+Switzerland,756,% of total country area cultivated,4470,2018,10.25324052
+Switzerland,756,% of cultivated land irrigated [harvested crop],4556,2012,9.680834501
+Switzerland,756,% of cultivated land irrigated [harvested crop],4556,2017,12.29057568
+Switzerland,756,% of cultivated land irrigated [harvested crop],4556,2018,12.28268215
+Switzerland,756,Total population,4104,2002,7220.377
+Switzerland,756,Total population,4104,2007,7536.982
+Switzerland,756,Total population,4104,2012,8008.012
+Switzerland,756,Total population,4104,2017,8455.804
+Switzerland,756,Total population,4104,2018,8525.611
+Switzerland,756,Rural population,4105,2002,1926.831
+Switzerland,756,Rural population,4105,2007,2001.241
+Switzerland,756,Rural population,4105,2012,2116.141
+Switzerland,756,Rural population,4105,2017,2224.037
+Switzerland,756,Rural population,4105,2018,2238.762
+Switzerland,756,Urban population,4106,2002,5317.083
+Switzerland,756,Urban population,4106,2007,5559.117
+Switzerland,756,Urban population,4106,2012,5915.529
+Switzerland,756,Urban population,4106,2017,6251.968
+Switzerland,756,Urban population,4106,2018,6305.272
+Switzerland,756,Population density,4107,2002,174.8698716
+Switzerland,756,Population density,4107,2007,182.5377089
+Switzerland,756,Population density,4107,2012,193.9455558
+Switzerland,756,Population density,4107,2017,204.7886687
+Switzerland,756,Population density,4107,2018,206.4793043
+Switzerland,756,Gross Domestic Product (GDP),4112,2002,3.1E+11
+Switzerland,756,Gross Domestic Product (GDP),4112,2007,4.94E+11
+Switzerland,756,Gross Domestic Product (GDP),4112,2012,6.92E+11
+Switzerland,756,Gross Domestic Product (GDP),4112,2017,7.04E+11
+Switzerland,756,Gross Domestic Product (GDP),4112,2018,7.36E+11
+Switzerland,756,GDP per capita,4458,2002,41609.46138
+Switzerland,756,GDP per capita,4458,2007,63479.36095
+Switzerland,756,GDP per capita,4458,2012,83176.17808
+Switzerland,756,GDP per capita,4458,2017,80220.63248
+Switzerland,756,GDP per capita,4458,2018,82530.17486
+Switzerland,756,"Agriculture, value added (% GDP)",4113,2002,0.931026
+Switzerland,756,"Agriculture, value added (% GDP)",4113,2007,0.768781
+Switzerland,756,"Agriculture, value added (% GDP)",4113,2012,0.62937
+Switzerland,756,"Agriculture, value added (% GDP)",4113,2017,0.623019
+Switzerland,756,"Agriculture, value added (% GDP)",4113,2018,0.630085
+Switzerland,756,"Agriculture, value added to GDP",4548,2002,2.96E+09
+Switzerland,756,"Agriculture, value added to GDP",4548,2007,3.85E+09
+Switzerland,756,"Agriculture, value added to GDP",4548,2012,4.4E+09
+Switzerland,756,"Agriculture, value added to GDP",4548,2017,4.51E+09
+Switzerland,756,"Agriculture, value added to GDP",4548,2018,4.59E+09
+Switzerland,756,"Industry, value added to GDP",4546,2002,7.29E+10
+Switzerland,756,"Industry, value added to GDP",4546,2007,1.17E+11
+Switzerland,756,"Industry, value added to GDP",4546,2012,1.6E+11
+Switzerland,756,"Industry, value added to GDP",4546,2017,1.58E+11
+Switzerland,756,"Industry, value added to GDP",4546,2018,1.66E+11
+Switzerland,756,"Services, value added to GDP",4547,2002,2.14E+11
+Switzerland,756,"Services, value added to GDP",4547,2007,3.41E+11
+Switzerland,756,"Services, value added to GDP",4547,2012,4.82E+11
+Switzerland,756,"Services, value added to GDP",4547,2017,4.95E+11
+Switzerland,756,"Services, value added to GDP",4547,2018,5.14E+11
+Switzerland,756,Human Development Index (HDI) [highest = 1],4111,2002,0.891
+Switzerland,756,Human Development Index (HDI) [highest = 1],4111,2007,0.915
+Switzerland,756,Human Development Index (HDI) [highest = 1],4111,2012,0.935
+Switzerland,756,Human Development Index (HDI) [highest = 1],4111,2017,0.943
+Switzerland,756,Human Development Index (HDI) [highest = 1],4111,2018,0.946
+Switzerland,756,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.0936
+Switzerland,756,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.0772
+Switzerland,756,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.042333333
+Switzerland,756,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.0278
+Switzerland,756,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.0278
+Switzerland,756,% of agricultural GVA produced by irrigated agriculture,4555,2012,16.00693141
+Switzerland,756,% of agricultural GVA produced by irrigated agriculture,4555,2017,19.94544643
+Switzerland,756,% of agricultural GVA produced by irrigated agriculture,4555,2018,19.93375395
+Switzerland,756,GDP Deflator (2015),4558,2002,57.4314
+Switzerland,756,GDP Deflator (2015),4558,2007,79.8991
+Switzerland,756,GDP Deflator (2015),4558,2012,104.526
+Switzerland,756,GDP Deflator (2015),4558,2017,96.7869
+Switzerland,756,GDP Deflator (2015),4558,2018,98.1449
+Thailand,764,Total area of the country (excl. coastal water),4100,2002,51312
+Thailand,764,Total area of the country (excl. coastal water),4100,2007,51312
+Thailand,764,Total area of the country (excl. coastal water),4100,2012,51312
+Thailand,764,Total area of the country (excl. coastal water),4100,2017,51312
+Thailand,764,Total area of the country (excl. coastal water),4100,2018,51312
+Thailand,764,Arable land area,4101,2002,15389
+Thailand,764,Arable land area,4101,2007,15200
+Thailand,764,Arable land area,4101,2012,16560
+Thailand,764,Arable land area,4101,2017,16810
+Thailand,764,Arable land area,4101,2018,16810
+Thailand,764,Permanent crops area,4102,2002,3500
+Thailand,764,Permanent crops area,4102,2007,3800
+Thailand,764,Permanent crops area,4102,2012,4500
+Thailand,764,Permanent crops area,4102,2017,4500
+Thailand,764,Permanent crops area,4102,2018,4500
+Thailand,764,Cultivated area (arable land + permanent crops),4103,2002,18889
+Thailand,764,Cultivated area (arable land + permanent crops),4103,2007,19000
+Thailand,764,Cultivated area (arable land + permanent crops),4103,2012,21060
+Thailand,764,Cultivated area (arable land + permanent crops),4103,2017,21310
+Thailand,764,Cultivated area (arable land + permanent crops),4103,2018,21310
+Thailand,764,% of total country area cultivated,4470,2002,36.81205176
+Thailand,764,% of total country area cultivated,4470,2007,37.02837543
+Thailand,764,% of total country area cultivated,4470,2012,41.04303087
+Thailand,764,% of total country area cultivated,4470,2017,41.53024634
+Thailand,764,% of total country area cultivated,4470,2018,41.53024634
+Thailand,764,% of cultivated land irrigated [harvested crop],4556,2002,34.31626873
+Thailand,764,% of cultivated land irrigated [harvested crop],4556,2007,38.87894737
+Thailand,764,% of cultivated land irrigated [harvested crop],4556,2012,35.07597341
+Thailand,764,% of cultivated land irrigated [harvested crop],4556,2017,34.66447677
+Thailand,764,% of cultivated land irrigated [harvested crop],4556,2018,34.66447677
+Thailand,764,Total population,4104,2002,64069.087
+Thailand,764,Total population,4104,2007,66182.067
+Thailand,764,Total population,4104,2012,67835.962
+Thailand,764,Total population,4104,2017,69209.81
+Thailand,764,Total population,4104,2018,69428.453
+Thailand,764,Rural population,4105,2002,42458.762
+Thailand,764,Rural population,4105,2007,39750.794
+Thailand,764,Rural population,4105,2012,37012.171
+Thailand,764,Rural population,4105,2017,35071.057
+Thailand,764,Rural population,4105,2018,34627.095
+Thailand,764,Urban population,4106,2002,21614.402
+Thailand,764,Urban population,4106,2007,26444.821
+Thailand,764,Urban population,4106,2012,30831.808
+Thailand,764,Urban population,4106,2017,33966.456
+Thailand,764,Urban population,4106,2018,34556.078
+Thailand,764,Population density,4107,2002,124.8618004
+Thailand,764,Population density,4107,2007,128.9797065
+Thailand,764,Population density,4107,2012,132.2029194
+Thailand,764,Population density,4107,2017,134.8803594
+Thailand,764,Population density,4107,2018,135.3064644
+Thailand,764,Gross Domestic Product (GDP),4112,2002,1.34E+11
+Thailand,764,Gross Domestic Product (GDP),4112,2007,2.63E+11
+Thailand,764,Gross Domestic Product (GDP),4112,2012,3.98E+11
+Thailand,764,Gross Domestic Product (GDP),4112,2017,4.55E+11
+Thailand,764,Gross Domestic Product (GDP),4112,2018,5.05E+11
+Thailand,764,GDP per capita,4458,2002,2096.055431
+Thailand,764,GDP per capita,4458,2007,3972.206958
+Thailand,764,GDP per capita,4458,2012,5859.89206
+Thailand,764,GDP per capita,4458,2017,6594.608057
+Thailand,764,GDP per capita,4458,2018,7299.352335
+Thailand,764,"Agriculture, value added (% GDP)",4113,2002,8.692178
+Thailand,764,"Agriculture, value added (% GDP)",4113,2007,9.347683
+Thailand,764,"Agriculture, value added (% GDP)",4113,2012,11.504106
+Thailand,764,"Agriculture, value added (% GDP)",4113,2017,8.32367
+Thailand,764,"Agriculture, value added (% GDP)",4113,2018,8.116788
+Thailand,764,"Agriculture, value added to GDP",4548,2002,1.17E+10
+Thailand,764,"Agriculture, value added to GDP",4548,2007,2.46E+10
+Thailand,764,"Agriculture, value added to GDP",4548,2012,4.57E+10
+Thailand,764,"Agriculture, value added to GDP",4548,2017,3.79E+10
+Thailand,764,"Agriculture, value added to GDP",4548,2018,4.1E+10
+Thailand,764,"Industry, value added to GDP",4546,2002,4.54E+10
+Thailand,764,"Industry, value added to GDP",4546,2007,9.64E+10
+Thailand,764,"Industry, value added to GDP",4546,2012,1.38E+11
+Thailand,764,"Industry, value added to GDP",4546,2017,1.47E+11
+Thailand,764,"Industry, value added to GDP",4546,2018,1.62E+11
+Thailand,764,"Services, value added to GDP",4547,2002,7.73E+10
+Thailand,764,"Services, value added to GDP",4547,2007,1.42E+11
+Thailand,764,"Services, value added to GDP",4547,2012,2.14E+11
+Thailand,764,"Services, value added to GDP",4547,2017,2.71E+11
+Thailand,764,"Services, value added to GDP",4547,2018,2.93E+11
+Thailand,764,Human Development Index (HDI) [highest = 1],4111,2002,0.665
+Thailand,764,Human Development Index (HDI) [highest = 1],4111,2007,0.71
+Thailand,764,Human Development Index (HDI) [highest = 1],4111,2012,0.733
+Thailand,764,Human Development Index (HDI) [highest = 1],4111,2017,0.762
+Thailand,764,Human Development Index (HDI) [highest = 1],4111,2018,0.765
+Thailand,764,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.4368
+Thailand,764,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.3946
+Thailand,764,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.369
+Thailand,764,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.3796
+Thailand,764,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.3796
+Thailand,764,Prevalence of undernourishment (3-year average),4474,2002,17.3
+Thailand,764,Prevalence of undernourishment (3-year average),4474,2007,10.6
+Thailand,764,Prevalence of undernourishment (3-year average),4474,2012,9.2
+Thailand,764,Prevalence of undernourishment (3-year average),4474,2017,7.5
+Thailand,764,Prevalence of undernourishment (3-year average),4474,2018,7.7
+Thailand,764,Number of people undernourished (3-year average),4473,2002,11000
+Thailand,764,Number of people undernourished (3-year average),4473,2007,7000
+Thailand,764,Number of people undernourished (3-year average),4473,2012,6200
+Thailand,764,Number of people undernourished (3-year average),4473,2017,5100
+Thailand,764,Number of people undernourished (3-year average),4473,2018,5400
+Thailand,764,% of agricultural GVA produced by irrigated agriculture,4555,2002,52.59938885
+Thailand,764,% of agricultural GVA produced by irrigated agriculture,4555,2007,57.46619381
+Thailand,764,% of agricultural GVA produced by irrigated agriculture,4555,2012,53.43457553
+Thailand,764,% of agricultural GVA produced by irrigated agriculture,4555,2017,52.98346793
+Thailand,764,% of agricultural GVA produced by irrigated agriculture,4555,2018,52.98346793
+Thailand,764,GDP Deflator (2015),4558,2002,55.2296
+Thailand,764,GDP Deflator (2015),4558,2007,82.3105
+Thailand,764,GDP Deflator (2015),4558,2012,105.952
+Thailand,764,GDP Deflator (2015),4558,2017,105.521
+Thailand,764,GDP Deflator (2015),4558,2018,112.402
+United Arab Emirates,784,Total area of the country (excl. coastal water),4100,2002,8360
+United Arab Emirates,784,Total area of the country (excl. coastal water),4100,2007,8360
+United Arab Emirates,784,Total area of the country (excl. coastal water),4100,2012,8360
+United Arab Emirates,784,Total area of the country (excl. coastal water),4100,2017,7120.2135
+United Arab Emirates,784,Total area of the country (excl. coastal water),4100,2018,7120.2135
+United Arab Emirates,784,Arable land area,4101,2002,75
+United Arab Emirates,784,Arable land area,4101,2007,44.6
+United Arab Emirates,784,Arable land area,4101,2012,37.1
+United Arab Emirates,784,Arable land area,4101,2017,44.5
+United Arab Emirates,784,Arable land area,4101,2018,42.3
+United Arab Emirates,784,Permanent crops area,4102,2002,191
+United Arab Emirates,784,Permanent crops area,4102,2007,188
+United Arab Emirates,784,Permanent crops area,4102,2012,39.6
+United Arab Emirates,784,Permanent crops area,4102,2017,39.3
+United Arab Emirates,784,Permanent crops area,4102,2018,39.4
+United Arab Emirates,784,Cultivated area (arable land + permanent crops),4103,2002,266
+United Arab Emirates,784,Cultivated area (arable land + permanent crops),4103,2007,232.6
+United Arab Emirates,784,Cultivated area (arable land + permanent crops),4103,2012,76.7
+United Arab Emirates,784,Cultivated area (arable land + permanent crops),4103,2017,83.8
+United Arab Emirates,784,Cultivated area (arable land + permanent crops),4103,2018,81.75
+United Arab Emirates,784,% of total country area cultivated,4470,2002,3.181818182
+United Arab Emirates,784,% of total country area cultivated,4470,2007,2.782296651
+United Arab Emirates,784,% of total country area cultivated,4470,2012,0.917464115
+United Arab Emirates,784,% of total country area cultivated,4470,2017,1.176931001
+United Arab Emirates,784,% of total country area cultivated,4470,2018,1.148139729
+United Arab Emirates,784,% of cultivated land irrigated [harvested crop],4556,2002,100
+United Arab Emirates,784,% of cultivated land irrigated [harvested crop],4556,2007,100
+United Arab Emirates,784,% of cultivated land irrigated [harvested crop],4556,2012,100
+United Arab Emirates,784,% of cultivated land irrigated [harvested crop],4556,2017,66.90930788
+United Arab Emirates,784,% of cultivated land irrigated [harvested crop],4556,2018,68.58715596
+United Arab Emirates,784,Total population,4104,2002,3478.777
+United Arab Emirates,784,Total population,4104,2007,6168.838
+United Arab Emirates,784,Total population,4104,2012,9141.596
+United Arab Emirates,784,Total population,4104,2017,9487.203
+United Arab Emirates,784,Total population,4104,2018,9630.959
+United Arab Emirates,784,Rural population,4105,2002,664.034
+United Arab Emirates,784,Rural population,4105,2007,1026.131
+United Arab Emirates,784,Rural population,4105,2012,1357.387
+United Arab Emirates,784,Rural population,4105,2017,1292.709
+United Arab Emirates,784,Rural population,4105,2018,1285.972
+United Arab Emirates,784,Urban population,4106,2002,2843.198
+United Arab Emirates,784,Urban population,4106,2007,5017.936
+United Arab Emirates,784,Urban population,4106,2012,7543.066
+United Arab Emirates,784,Urban population,4106,2017,8107.436
+United Arab Emirates,784,Urban population,4106,2018,8255.643
+United Arab Emirates,784,Population density,4107,2002,41.61216507
+United Arab Emirates,784,Population density,4107,2007,73.78992823
+United Arab Emirates,784,Population density,4107,2012,109.3492344
+United Arab Emirates,784,Population density,4107,2017,133.2432377
+United Arab Emirates,784,Population density,4107,2018,135.2622221
+United Arab Emirates,784,Gross Domestic Product (GDP),4112,2002,1.11E+11
+United Arab Emirates,784,Gross Domestic Product (GDP),4112,2007,2.61E+11
+United Arab Emirates,784,Gross Domestic Product (GDP),4112,2012,3.75E+11
+United Arab Emirates,784,Gross Domestic Product (GDP),4112,2017,3.86E+11
+United Arab Emirates,784,Gross Domestic Product (GDP),4112,2018,4.22E+11
+United Arab Emirates,784,GDP per capita,4458,2002,31720.54445
+United Arab Emirates,784,GDP per capita,4458,2007,43230.27018
+United Arab Emirates,784,GDP per capita,4458,2012,42086.69578
+United Arab Emirates,784,GDP per capita,4458,2017,40180.34405
+United Arab Emirates,784,GDP per capita,4458,2018,43407.63514
+United Arab Emirates,784,"Agriculture, value added (% GDP)",4113,2002,1.96519
+United Arab Emirates,784,"Agriculture, value added (% GDP)",4113,2007,0.871103
+United Arab Emirates,784,"Agriculture, value added (% GDP)",4113,2012,0.638887
+United Arab Emirates,784,"Agriculture, value added (% GDP)",4113,2017,0.770536
+United Arab Emirates,784,"Agriculture, value added (% GDP)",4113,2018,0.718739
+United Arab Emirates,784,"Agriculture, value added to GDP",4548,2002,2.19E+09
+United Arab Emirates,784,"Agriculture, value added to GDP",4548,2007,2.28E+09
+United Arab Emirates,784,"Agriculture, value added to GDP",4548,2012,2.39E+09
+United Arab Emirates,784,"Agriculture, value added to GDP",4548,2017,2.97E+09
+United Arab Emirates,784,"Agriculture, value added to GDP",4548,2018,3.06E+09
+United Arab Emirates,784,"Industry, value added to GDP",4546,2002,4.82E+10
+United Arab Emirates,784,"Industry, value added to GDP",4546,2007,1.32E+11
+United Arab Emirates,784,"Industry, value added to GDP",4546,2012,2.06E+11
+United Arab Emirates,784,"Industry, value added to GDP",4546,2017,1.48E+11
+United Arab Emirates,784,"Industry, value added to GDP",4546,2018,1.79E+11
+United Arab Emirates,784,"Services, value added to GDP",4547,2002,5.82E+10
+United Arab Emirates,784,"Services, value added to GDP",4547,2007,1.24E+11
+United Arab Emirates,784,"Services, value added to GDP",4547,2012,1.66E+11
+United Arab Emirates,784,"Services, value added to GDP",4547,2017,2.27E+11
+United Arab Emirates,784,"Services, value added to GDP",4547,2018,2.33E+11
+United Arab Emirates,784,Human Development Index (HDI) [highest = 1],4111,2002,0.793
+United Arab Emirates,784,Human Development Index (HDI) [highest = 1],4111,2007,0.819
+United Arab Emirates,784,Human Development Index (HDI) [highest = 1],4111,2012,0.832
+United Arab Emirates,784,Human Development Index (HDI) [highest = 1],4111,2017,0.864
+United Arab Emirates,784,Human Development Index (HDI) [highest = 1],4111,2018,0.866
+United Arab Emirates,784,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.6166
+United Arab Emirates,784,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.456
+United Arab Emirates,784,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.240666667
+United Arab Emirates,784,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.2322
+United Arab Emirates,784,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.2322
+United Arab Emirates,784,Prevalence of undernourishment (3-year average),4474,2002,3.3
+United Arab Emirates,784,Prevalence of undernourishment (3-year average),4474,2007,9.2
+United Arab Emirates,784,Prevalence of undernourishment (3-year average),4474,2012,5.5
+United Arab Emirates,784,Prevalence of undernourishment (3-year average),4474,2017,2.9
+United Arab Emirates,784,Prevalence of undernourishment (3-year average),4474,2018,3.2
+United Arab Emirates,784,Number of people undernourished (3-year average),4473,2002,100
+United Arab Emirates,784,Number of people undernourished (3-year average),4473,2007,500
+United Arab Emirates,784,Number of people undernourished (3-year average),4473,2012,500
+United Arab Emirates,784,Number of people undernourished (3-year average),4473,2017,300
+United Arab Emirates,784,Number of people undernourished (3-year average),4473,2018,300
+United Arab Emirates,784,% of agricultural GVA produced by irrigated agriculture,4555,2002,100
+United Arab Emirates,784,% of agricultural GVA produced by irrigated agriculture,4555,2007,100
+United Arab Emirates,784,% of agricultural GVA produced by irrigated agriculture,4555,2012,100
+United Arab Emirates,784,% of agricultural GVA produced by irrigated agriculture,4555,2017,100
+United Arab Emirates,784,% of agricultural GVA produced by irrigated agriculture,4555,2018,100
+United Arab Emirates,784,GDP Deflator (2015),4558,2002,56.2642
+United Arab Emirates,784,GDP Deflator (2015),4558,2007,93.2785
+United Arab Emirates,784,GDP Deflator (2015),4558,2012,120.439
+United Arab Emirates,784,GDP Deflator (2015),4558,2017,102.05
+United Arab Emirates,784,GDP Deflator (2015),4558,2018,110.425
+United Kingdom,826,Total area of the country (excl. coastal water),4100,2002,24361
+United Kingdom,826,Total area of the country (excl. coastal water),4100,2007,24361
+United Kingdom,826,Total area of the country (excl. coastal water),4100,2012,24361
+United Kingdom,826,Total area of the country (excl. coastal water),4100,2017,24361
+United Kingdom,826,Total area of the country (excl. coastal water),4100,2018,24361
+United Kingdom,826,Arable land area,4101,2002,5786
+United Kingdom,826,Arable land area,4101,2007,6085
+United Kingdom,826,Arable land area,4101,2012,6212
+United Kingdom,826,Arable land area,4101,2017,6082.8794
+United Kingdom,826,Arable land area,4101,2018,6037.7874
+United Kingdom,826,Permanent crops area,4102,2002,50
+United Kingdom,826,Permanent crops area,4102,2007,46
+United Kingdom,826,Permanent crops area,4102,2012,46
+United Kingdom,826,Permanent crops area,4102,2017,47.707
+United Kingdom,826,Permanent crops area,4102,2018,46.1656
+United Kingdom,826,Cultivated area (arable land + permanent crops),4103,2002,5836
+United Kingdom,826,Cultivated area (arable land + permanent crops),4103,2007,6131
+United Kingdom,826,Cultivated area (arable land + permanent crops),4103,2012,6258
+United Kingdom,826,Cultivated area (arable land + permanent crops),4103,2017,6130.5864
+United Kingdom,826,Cultivated area (arable land + permanent crops),4103,2018,6083.953
+United Kingdom,826,% of total country area cultivated,4470,2002,23.95632363
+United Kingdom,826,% of total country area cultivated,4470,2007,25.16727556
+United Kingdom,826,% of total country area cultivated,4470,2012,25.68860063
+United Kingdom,826,% of total country area cultivated,4470,2017,25.16557777
+United Kingdom,826,% of total country area cultivated,4470,2018,24.97415131
+United Kingdom,826,% of cultivated land irrigated [harvested crop],4556,2007,2.254118415
+United Kingdom,826,% of cultivated land irrigated [harvested crop],4556,2012,2.208373282
+United Kingdom,826,% of cultivated land irrigated [harvested crop],4556,2017,2.254270489
+United Kingdom,826,% of cultivated land irrigated [harvested crop],4556,2018,2.271549435
+United Kingdom,826,Total population,4104,2002,59326.294
+United Kingdom,826,Total population,4104,2007,61455.162
+United Kingdom,826,Total population,4104,2012,64525.312
+United Kingdom,826,Total population,4104,2017,66727.461
+United Kingdom,826,Total population,4104,2018,67141.684
+United Kingdom,826,Rural population,4105,2002,12435.493
+United Kingdom,826,Rural population,4105,2007,11988.805
+United Kingdom,826,Rural population,4105,2012,11669.597
+United Kingdom,826,Rural population,4105,2017,11156.164
+United Kingdom,826,Rural population,4105,2018,11052.278
+United Kingdom,826,Urban population,4106,2002,46913.46
+United Kingdom,826,Urban population,4106,2007,49425.855
+United Kingdom,826,Urban population,4106,2012,52580.733
+United Kingdom,826,Urban population,4106,2017,55025.421
+United Kingdom,826,Urban population,4106,2018,55521.226
+United Kingdom,826,Population density,4107,2002,243.5297976
+United Kingdom,826,Population density,4107,2007,252.2686343
+United Kingdom,826,Population density,4107,2012,264.87136
+United Kingdom,826,Population density,4107,2017,273.9110094
+United Kingdom,826,Population density,4107,2018,275.6113624
+United Kingdom,826,Gross Domestic Product (GDP),4112,2002,1.78E+12
+United Kingdom,826,Gross Domestic Product (GDP),4112,2007,3.09E+12
+United Kingdom,826,Gross Domestic Product (GDP),4112,2012,2.7E+12
+United Kingdom,826,Gross Domestic Product (GDP),4112,2017,2.66E+12
+United Kingdom,826,Gross Domestic Product (GDP),4112,2018,2.86E+12
+United Kingdom,826,GDP per capita,4458,2002,30066.43633
+United Kingdom,826,GDP per capita,4458,2007,50493.77705
+United Kingdom,826,GDP per capita,4458,2012,42099.20289
+United Kingdom,826,GDP per capita,4458,2017,40286.57186
+United Kingdom,826,GDP per capita,4458,2018,42889.38632
+United Kingdom,826,"Agriculture, value added (% GDP)",4113,2002,0.92172
+United Kingdom,826,"Agriculture, value added (% GDP)",4113,2007,0.56711
+United Kingdom,826,"Agriculture, value added (% GDP)",4113,2012,0.643778
+United Kingdom,826,"Agriculture, value added (% GDP)",4113,2017,0.573629
+United Kingdom,826,"Agriculture, value added (% GDP)",4113,2018,0.568916
+United Kingdom,826,"Agriculture, value added to GDP",4548,2002,1.62E+10
+United Kingdom,826,"Agriculture, value added to GDP",4548,2007,1.75E+10
+United Kingdom,826,"Agriculture, value added to GDP",4548,2012,1.79E+10
+United Kingdom,826,"Agriculture, value added to GDP",4548,2017,1.74E+10
+United Kingdom,826,"Agriculture, value added to GDP",4548,2018,1.8E+10
+United Kingdom,826,"Industry, value added to GDP",4546,2002,3.54E+11
+United Kingdom,826,"Industry, value added to GDP",4546,2007,5.45E+11
+United Kingdom,826,"Industry, value added to GDP",4546,2012,4.41E+11
+United Kingdom,826,"Industry, value added to GDP",4546,2017,4.12E+11
+United Kingdom,826,"Industry, value added to GDP",4546,2018,4.35E+11
+United Kingdom,826,"Services, value added to GDP",4547,2002,1.24E+12
+United Kingdom,826,"Services, value added to GDP",4547,2007,2.23E+12
+United Kingdom,826,"Services, value added to GDP",4547,2012,1.96E+12
+United Kingdom,826,"Services, value added to GDP",4547,2017,1.95E+12
+United Kingdom,826,"Services, value added to GDP",4547,2018,2.09E+12
+United Kingdom,826,Human Development Index (HDI) [highest = 1],4111,2002,0.874
+United Kingdom,826,Human Development Index (HDI) [highest = 1],4111,2007,0.892
+United Kingdom,826,Human Development Index (HDI) [highest = 1],4111,2012,0.897
+United Kingdom,826,Human Development Index (HDI) [highest = 1],4111,2017,0.919
+United Kingdom,826,Human Development Index (HDI) [highest = 1],4111,2018,0.92
+United Kingdom,826,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2002,0.2232
+United Kingdom,826,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.2084
+United Kingdom,826,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.194333333
+United Kingdom,826,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.1774
+United Kingdom,826,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.1774
+United Kingdom,826,% of agricultural GVA produced by irrigated agriculture,4555,2007,3.938748545
+United Kingdom,826,% of agricultural GVA produced by irrigated agriculture,4555,2012,3.860165634
+United Kingdom,826,% of agricultural GVA produced by irrigated agriculture,4555,2017,3.939009693
+United Kingdom,826,% of agricultural GVA produced by irrigated agriculture,4555,2018,3.968677823
+United Kingdom,826,GDP Deflator (2015),4558,2002,74.8871
+United Kingdom,826,GDP Deflator (2015),4558,2007,113.791
+United Kingdom,826,GDP Deflator (2015),4558,2012,99.2025
+United Kingdom,826,GDP Deflator (2015),4558,2017,87.7197
+United Kingdom,826,GDP Deflator (2015),4558,2018,92.9742
+United States of America,840,Total area of the country (excl. coastal water),4100,2002,963203
+United States of America,840,Total area of the country (excl. coastal water),4100,2007,963203
+United States of America,840,Total area of the country (excl. coastal water),4100,2012,983151
+United States of America,840,Total area of the country (excl. coastal water),4100,2017,983151
+United States of America,840,Total area of the country (excl. coastal water),4100,2018,983151
+United States of America,840,Arable land area,4101,2002,172977
+United States of America,840,Arable land area,4101,2007,161780
+United States of America,840,Arable land area,4101,2012,155007.5
+United States of America,840,Arable land area,4101,2017,157736.8
+United States of America,840,Arable land area,4101,2018,157736.8
+United States of America,840,Permanent crops area,4102,2002,2730
+United States of America,840,Permanent crops area,4102,2007,2700
+United States of America,840,Permanent crops area,4102,2012,2700
+United States of America,840,Permanent crops area,4102,2017,2700
+United States of America,840,Permanent crops area,4102,2018,2700
+United States of America,840,Cultivated area (arable land + permanent crops),4103,2002,175707
+United States of America,840,Cultivated area (arable land + permanent crops),4103,2007,164480
+United States of America,840,Cultivated area (arable land + permanent crops),4103,2012,157707.5
+United States of America,840,Cultivated area (arable land + permanent crops),4103,2017,160436.8
+United States of America,840,Cultivated area (arable land + permanent crops),4103,2018,160436.8
+United States of America,840,% of total country area cultivated,4470,2002,18.241949
+United States of America,840,% of total country area cultivated,4470,2007,17.07635877
+United States of America,840,% of total country area cultivated,4470,2012,16.04102523
+United States of America,840,% of total country area cultivated,4470,2017,16.31863264
+United States of America,840,% of total country area cultivated,4470,2018,16.31863264
+United States of America,840,% of cultivated land irrigated [harvested crop],4556,2002,12.73939001
+United States of America,840,% of cultivated land irrigated [harvested crop],4556,2007,13.92570525
+United States of America,840,% of cultivated land irrigated [harvested crop],4556,2012,14.32
+United States of America,840,% of cultivated land irrigated [harvested crop],4556,2017,14.63394309
+United States of America,840,% of cultivated land irrigated [harvested crop],4556,2018,14.1882037
+United States of America,840,Total population,4104,2002,287279.318
+United States of America,840,Total population,4104,2007,300608.429
+United States of America,840,Total population,4104,2012,314043.885
+United States of America,840,Total population,4104,2017,325084.756
+United States of America,840,Total population,4104,2018,327096.265
+United States of America,840,Rural population,4105,2002,59200.835
+United States of America,840,Rural population,4105,2007,59309.491
+United States of America,840,Rural population,4105,2012,59160.759
+United States of America,840,Rural population,4105,2017,58215.947
+United States of America,840,Rural population,4105,2018,57980.034
+United States of America,840,Urban population,4106,2002,228306.012
+United States of America,840,Urban population,4106,2007,241285.684
+United States of America,840,Urban population,4106,2012,254174.664
+United States of America,840,Urban population,4106,2017,266243.516
+United States of America,840,Urban population,4106,2018,268786.714
+United States of America,840,Population density,4107,2002,29.82541769
+United States of America,840,Population density,4107,2007,31.20924966
+United States of America,840,Population density,4107,2012,31.94258919
+United States of America,840,Population density,4107,2017,33.06559786
+United States of America,840,Population density,4107,2018,33.27019603
+United States of America,840,Gross Domestic Product (GDP),4112,2002,1.09E+13
+United States of America,840,Gross Domestic Product (GDP),4112,2007,1.45E+13
+United States of America,840,Gross Domestic Product (GDP),4112,2012,1.62E+13
+United States of America,840,Gross Domestic Product (GDP),4112,2017,1.95E+13
+United States of America,840,Gross Domestic Product (GDP),4112,2018,2.06E+13
+United States of America,840,GDP per capita,4458,2002,38038.80886
+United States of America,840,GDP per capita,4458,2007,48077.48494
+United States of America,840,GDP per capita,4458,2012,51692.23079
+United States of America,840,GDP per capita,4458,2017,60159.82342
+United States of America,840,GDP per capita,4458,2018,62981.38696
+United States of America,840,"Agriculture, value added (% GDP)",4113,2002,0.874144
+United States of America,840,"Agriculture, value added (% GDP)",4113,2007,0.997103
+United States of America,840,"Agriculture, value added (% GDP)",4113,2012,1.108847
+United States of America,840,"Agriculture, value added (% GDP)",4113,2017,0.903649
+United States of America,840,"Agriculture, value added (% GDP)",4113,2018,0.866491
+United States of America,840,"Agriculture, value added to GDP",4548,2002,9.56E+10
+United States of America,840,"Agriculture, value added to GDP",4548,2007,1.44E+11
+United States of America,840,"Agriculture, value added to GDP",4548,2012,1.8E+11
+United States of America,840,"Agriculture, value added to GDP",4548,2017,1.75E+11
+United States of America,840,"Agriculture, value added to GDP",4548,2018,1.67E+11
+United States of America,840,"Industry, value added to GDP",4546,2002,2.07E+12
+United States of America,840,"Industry, value added to GDP",4546,2007,2.87E+12
+United States of America,840,"Industry, value added to GDP",4546,2012,2.84E+12
+United States of America,840,"Industry, value added to GDP",4546,2017,3.26E+12
+United States of America,840,"Industry, value added to GDP",4546,2018,3.51E+12
+United States of America,840,"Services, value added to GDP",4547,2002,8.77E+12
+United States of America,840,"Services, value added to GDP",4547,2007,1.14E+13
+United States of America,840,"Services, value added to GDP",4547,2012,1.32E+13
+United States of America,840,"Services, value added to GDP",4547,2017,1.61E+13
+United States of America,840,"Services, value added to GDP",4547,2018,1.69E+13
+United States of America,840,Human Development Index (HDI) [highest = 1],4111,2002,0.886
+United States of America,840,Human Development Index (HDI) [highest = 1],4111,2007,0.902
+United States of America,840,Human Development Index (HDI) [highest = 1],4111,2012,0.916
+United States of America,840,Human Development Index (HDI) [highest = 1],4111,2017,0.919
+United States of America,840,Human Development Index (HDI) [highest = 1],4111,2018,0.92
+United States of America,840,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2007,0.2868
+United States of America,840,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2012,0.269666667
+United States of America,840,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2017,0.28
+United States of America,840,Gender Inequality Index (GII) [equality = 0; inequality = 1),4537,2018,0.28
+United States of America,840,% of agricultural GVA produced by irrigated agriculture,4555,2002,18.73368053
+United States of America,840,% of agricultural GVA produced by irrigated agriculture,4555,2007,20.3480303
+United States of America,840,% of agricultural GVA produced by irrigated agriculture,4555,2012,20.88005609
+United States of America,840,% of agricultural GVA produced by irrigated agriculture,4555,2017,21.30206119
+United States of America,840,% of agricultural GVA produced by irrigated agriculture,4555,2018,20.70247181
+United States of America,840,GDP Deflator (2015),4558,2002,77.4697
+United States of America,840,GDP Deflator (2015),4558,2007,88.3979
+United States of America,840,GDP Deflator (2015),4558,2012,95.58
+United States of America,840,GDP Deflator (2015),4558,2017,102.949
+United States of America,840,GDP Deflator (2015),4558,2018,105.421
