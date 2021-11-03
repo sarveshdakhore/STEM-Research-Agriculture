@@ -3,14 +3,13 @@ import pandas as pd
 import numpy as np
 
 def clearAllPlots():
-  fig = plt.figure()
   plt.figure().clear()
   plt.close()
   plt.cla()
   plt.clf()
 
 DataFrame = pd.read_csv("dataset.csv")
-variableId = (DataFrame["Variable Id"].unique()) #4100
+variableId = (DataFrame["Variable Id"].unique()) 
 
 for varId in variableId:
   filteredDataViaVariableId = DataFrame[(DataFrame["Variable Id"]==int(varId))]
@@ -24,7 +23,7 @@ for varId in variableId:
     # naming the x axis
     plt.xlabel('Year')
     # naming the y axis
-    plt.ylabel('\n Value')
+    plt.ylabel('Value')
     plt.plot(x1, y1, label = country)
     
   title=list(DataFrame.loc[(DataFrame["Variable Id"]==int(varId)),"Variable Name"])[0]
@@ -33,46 +32,8 @@ for varId in variableId:
   # show a legend on the plot
   plt.legend()
   
-  # function to show the plot
+  # function to save the plot
   plt.savefig("./Graphs/"+str(varId),dpi=2000)
   clearAllPlots()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
