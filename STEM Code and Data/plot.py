@@ -26,7 +26,7 @@ for varId in variableId:
     plt.plot(x1, y1, label = country)
     
   title=list(DataFrame.loc[(DataFrame["Variable Id"]==int(varId)),"Variable Name"])[0]
-  plt.title(title)
+  plt.title(title) #title plotting
   
   # show a legend on the plot
   plt.legend()
